@@ -1,5 +1,10 @@
 # Unit 16 | Assignment - Data Journalism and D3
 
+## My results 
+![d3_pic_1](d3_pic_1.png)
+
+
+## D3 Assignment
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
